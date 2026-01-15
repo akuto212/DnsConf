@@ -1,7 +1,6 @@
 package com.novibe.common.data_sources;
 
 import lombok.RequiredArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -13,7 +12,6 @@ import java.util.regex.Pattern;
 /**
  * Generates a custom hosts file by fetching from a source URL and replacing IP addresses
  */
-@Slf4j
 @RequiredArgsConstructor
 public class HostsGenerator {
     private static final String HOSTS_URL = "https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts";
@@ -28,12 +26,12 @@ public class HostsGenerator {
      */
     public String generateHosts() {
         try {
-            log.info("Fetching hosts file from: {}", HOSTS_URL);
+            System.out.println(">>> Fetching hosts file from: " + HOSTS_URL);
             String content = fetchHostsFile();
-            log.info("Processing hosts file with target IP: {}", targetIp);
+            System.out.println(">>> Processing hosts file with target IP: " + targetIp);
             return processHosts(content);
         } catch (Exception e) {
-            log.error("Failed to generate hosts file", e);
+            System.err.println(">>> Failed to generate hosts file: " + e.getMessage());
             throw new RuntimeException("Failed to generate hosts file", e);
         }
     }
