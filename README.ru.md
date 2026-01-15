@@ -73,11 +73,20 @@
 ---
 
 ## Настройка источников данных
-Каждый источник данных должен быть ссылкой на hosts-файл, можете воспользоваться этой:  
+Каждый источник данных должен быть ссылкой на hosts-файл, можете воспользоваться этой:
 https://raw.githubusercontent.com/Internet-Helper/GeoHideDNS/refs/heads/main/hosts/hosts
 
 Можно указать несколько источников, разделив их запятой:
 `https://first.com/hosts,https://second.com/hosts`
+
+---
+
+### Генерация hosts-файла
+При использовании специального URL `https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts` вы можете установить **переменную окружения** `TARGET_IP` для автоматической замены всех IP-адресов в файле (кроме записей `0.0.0.0`, которые пропускаются).
+
+Это позволяет перенаправить все домены из этого источника на ваш собственный IP-адрес вместо загрузки их как есть.
+
+Если `TARGET_IP` не установлена, файл будет загружен и обработан обычным образом.
 
 ---
 
@@ -166,6 +175,7 @@ https://www.youtube.com/watch?v=vbAXM_xAL5I
 3) Создайте _New environment_ с именем `DNS`
 4) Добавьте `AUTH_SECRET` и `CLIENT_ID` в **Environment secrets**
 5) Добавьте `DNS`, `REDIRECT` и `BLOCK` в **Environment variables**
+6) (Опционально) Добавьте `TARGET_IP` в **Environment variables**, если хотите использовать функцию генерации hosts-файла
 
 + **Action** запускается ежедневно в **01:30 UTC** (04:30 по МСК).  
   Чтобы изменить время, отредактируйте cron в `.github/workflows/github_action.yml`

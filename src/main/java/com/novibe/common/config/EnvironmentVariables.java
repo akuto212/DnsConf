@@ -14,4 +14,6 @@ public class EnvironmentVariables {
 
     public static final String REDIRECT = System.getenv("REDIRECT");
 
+    public static final String TARGET_IP = System.getenv("TARGET_IP");
+
 }

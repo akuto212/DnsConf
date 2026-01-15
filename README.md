@@ -64,6 +64,13 @@ Each data source must be a link to a hosts file, e.g. https://raw.githubusercont
 You can provide multiple sources split by coma:
 https://first.com/hosts,https://second.com/hosts
 
+### Hosts File Generation
+When using the special hosts file URL `https://raw.githubusercontent.com/ImMALWARE/dns.malw.link/refs/heads/master/hosts`, you can set the **environment variable** `TARGET_IP` to automatically replace all IP addresses in the file (except `0.0.0.0` entries, which are skipped).
+
+This allows you to redirect all domains from that source to your custom IP address instead of downloading them as-is.
+
+If `TARGET_IP` is not set, the file will be downloaded and processed normally.
+
 ### 1) Setup Redirects
 Set sources to **environment variable** `REDIRECT`
 
@@ -135,6 +142,7 @@ Previously generated data is removed **ONLY** when both `BLOCK` and `REDIRECT` s
 3) Create _New environment_ with name `DNS`
 4) Provide `AUTH_SECRET` and `CLIENT_ID` to **Environment secrets**
 5) Provide `DNS`,`REDIRECT` and `BLOCK` to **Environment variables**
+6) (Optional) Provide `TARGET_IP` to **Environment variables** if you want to use hosts file generation feature
 
 + The action will be launched every day at **01:30 UTC**. To set another time, change cron at `.github/workflows/github_action.yml`
 + You can run the action manually via `Run workflow` button: switch to _Actions_ tab and choose workflow named **DNS Block&Redirect Configurer cron task**
