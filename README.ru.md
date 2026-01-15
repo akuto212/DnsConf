@@ -174,8 +174,8 @@ https://www.youtube.com/watch?v=vbAXM_xAL5I
 2) Перейдите в _Settings_ → _Environments_
 3) Создайте _New environment_ с именем `DNS`
 4) Добавьте `AUTH_SECRET` и `CLIENT_ID` в **Environment secrets**
-5) Добавьте `DNS`, `REDIRECT` и `BLOCK` в **Environment variables**
-6) (Опционально) Добавьте `TARGET_IP` в **Environment variables**, если хотите использовать функцию генерации hosts-файла
+5) (Опционально) Добавьте `TARGET_IP` в **Environment secrets**, если хотите использовать функцию генерации hosts-файла
+6) Добавьте `DNS`, `REDIRECT` и `BLOCK` в **Environment variables**
 
 + **Action** запускается ежедневно в **01:30 UTC** (04:30 по МСК).  
   Чтобы изменить время, отредактируйте cron в `.github/workflows/github_action.yml`
