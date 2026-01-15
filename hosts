@@ -1,238 +1,280 @@
-195.93.244.184 37signals.com
-195.93.244.184 adobe-identity.com
-195.93.244.184 adobe-services.com
-195.93.244.184 adobe.com
-195.93.244.184 adobe.io
-195.93.244.184 adobecc.com
-195.93.244.184 adobecces.com
-195.93.244.184 adobeccstatic.com
-195.93.244.184 adobedtm.com
-195.93.244.184 adobeexchange.com
-195.93.244.184 adobegenuine.com
-195.93.244.184 adobegov.com
-195.93.244.184 adobejanus.com
-195.93.244.184 adobelogin.com
-195.93.244.184 adobeoobe.com
-195.93.244.184 adobeprojectm.com
-195.93.244.184 adobesc.com
-195.93.244.184 adobess.com
-195.93.244.184 adobesunbreak.com
-195.93.244.184 adobetag.com
-195.93.244.184 ai.google.dev
-195.93.244.184 aisandbox-pa.googleapis.com
-195.93.244.184 aistudio.google.com
-195.93.244.184 aitestkitchen.withgoogle.com
-195.93.244.184 alkalicore-pa.clients6.google.com
-195.93.244.184 alkalimakersuite-pa.clients6.google.com
-195.93.244.184 amd.com
-195.93.244.184 anthropic.com
-195.93.244.184 api-sg-central.trae.ai
-195.93.244.184 api.cdnlibs.org
-195.93.244.184 api.fitbit.com
-195.93.244.184 api.imgur.com
-195.93.244.184 api.jetbrains.ai
-195.93.244.184 api.manus.im
-195.93.244.184 api.trae.ai
-195.93.244.184 api.workos.com
-195.93.244.184 api16-normal-alisg.mchost.guru
-195.93.244.184 apis.google.com
-195.93.244.184 arkoselabs.com
-195.93.244.184 assistant-s3-pa.googleapis.com
-195.93.244.184 astockcdn.net
-195.93.244.184 atlassian.com
-195.93.244.184 auth.xboxlive.com
-195.93.244.184 autodesk.com
-195.93.244.184 autodesk.net
-195.93.244.184 avast.com
-195.93.244.184 avast.ru
-195.93.244.184 badoo.app
-195.93.244.184 badoo.com
-195.93.244.184 badoocdn.com
-195.93.244.184 bard.google.com
-195.93.244.184 basecamp.com
-195.93.244.184 basecampapi.com
-195.93.244.184 behance.net
-195.93.244.184 bestbuy.com
-195.93.244.184 brave.com
-195.93.244.184 brawlstarsgame.com
-195.93.244.184 builds.parsec.app
-195.93.244.184 buymeacoffee.com
-195.93.244.184 canva-apps.com
-195.93.244.184 canva.com
-195.93.244.184 canva.dev
-195.93.244.184 capcut.com
-195.93.244.184 cdn.web-platform.io
-195.93.244.184 chatgpt.com
-195.93.244.184 chess.com
-195.93.244.184 cici.com
-195.93.244.184 clashofclans.com
-195.93.244.184 clashroyaleapp.com
-195.93.244.184 claude.ai
-195.93.244.184 clickup.com
-195.93.244.184 codeium.com
-195.93.244.184 consent.trustarc.com
-195.93.244.184 console.neon.tech
+### Akuto hosts file
+# Домены взяты из этих источников:
+# https://info.dns.malw.link/hosts
+
+
+195.93.244.184 tracker.openbittorrent.com
+195.93.244.184 test.dns.malw.link
+195.93.244.184 ntc.party
 195.93.244.184 controlplane.tailscale.com
-195.93.244.184 copilot.microsoft.com
-195.93.244.184 coreweave.com
-195.93.244.184 corsair.com
-195.93.244.184 cummins.com
-195.93.244.184 d.docs.live.net
-195.93.244.184 deepl.app
-195.93.244.184 deepl.com
-195.93.244.184 deepmind.com
-195.93.244.184 deepmind.google
-195.93.244.184 deezer.com
-195.93.244.184 dell.com
-195.93.244.184 dellcdn.com
-195.93.244.184 designer.microsoft.com
-195.93.244.184 designify.com
-195.93.244.184 developer.nvidia.com
-195.93.244.184 developerprofiles-pa.googleapis.com
-195.93.244.184 digikey.com
-195.93.244.184 digikeyassets.com
-195.93.244.184 dl.teamviewer.com
-195.93.244.184 dnsspeedtest.online
-195.93.244.184 dola.com
-195.93.244.184 download.teamviewer.com
-195.93.244.184 dtm8.dinamicagenerale.com
-195.93.244.184 dyson.com
-195.93.244.184 dyson.de
-195.93.244.184 dyson.se
-195.93.244.184 dzcdn.net
-195.93.244.184 ecosia.org
-195.93.244.184 edgeservices.bing.com
-195.93.244.184 elevenlabs.io
-195.93.244.184 elevenreader.io
-195.93.244.184 encore.scdn.co
-195.93.244.184 eneba.com
-195.93.244.184 eu.posthog.com
-195.93.244.184 files-s2pb.pbsync.com
-195.93.244.184 fitbit-pa.googleapis.com
-195.93.244.184 fitbit.google.com
-195.93.244.184 fitbitvestibuleshim-pa.googleapis.com
-195.93.244.184 framer.com
-195.93.244.184 g2a.com
+195.93.244.184 game.clashroyaleapp.com
+195.93.244.184 gamea.clashofclans.com
+195.93.244.184 game.brawlstarsgame.com
+195.93.244.184 game.squadbustersgame.com
 195.93.244.184 game.mocogame.com
-195.93.244.184 gamestop.com
-195.93.244.184 geller-pa.googleapis.com
-195.93.244.184 gemini.google
+195.93.244.184 d.rutor.info
+195.93.244.184 instagram.com
+195.93.244.184 www.instagram.com
+195.93.244.184 b.i.instagram.com
+195.93.244.184 z-p42-chat-e2ee-ig.facebook.com
+195.93.244.184 help.instagram.com
 195.93.244.184 gemini.google.com
-195.93.244.184 generativeai.google
+195.93.244.184 aistudio.google.com
 195.93.244.184 generativelanguage.googleapis.com
-195.93.244.184 genspark.ai
-195.93.244.184 geolocation.onetrust.com
-195.93.244.184 gpt3-openai.com
-195.93.244.184 gql.twitch.tv
-195.93.244.184 grok.com
-195.93.244.184 grok.x.com
-195.93.244.184 gssv-play-prod.xboxlive.com
-195.93.244.184 guidedhacking.com
-195.93.244.184 guilded.gg
-195.93.244.184 hume.ai
-195.93.244.184 images.contentstack.io
-195.93.244.184 indeed.com
-195.93.244.184 intel.com
-195.93.244.184 intel.de
-195.93.244.184 intel.se
-195.93.244.184 jetbrains.com
-195.93.244.184 jetbrains.space
-195.93.244.184 jules.google
-195.93.244.184 jules.google.com
-195.93.244.184 kaleido.ai
-195.93.244.184 labs.google
-195.93.244.184 labs.google.com
-195.93.244.184 linear.app
-195.93.244.184 lookerstudio.google.com
-195.93.244.184 m3u.in
-195.93.244.184 make.com
-195.93.244.184 makersuite.google.com
-195.93.244.184 malwarebytes.com
-195.93.244.184 manybooks.net
-195.93.244.184 meta.ai
-195.93.244.184 misterfpga.org
-195.93.244.184 mongodb.com
-195.93.244.184 mouser.com
-195.93.244.184 myjetbrains.com
-195.93.244.184 naukimg.com
-195.93.244.184 naukri.com
-195.93.244.184 netapp.com
-195.93.244.184 notebooklm.google
-195.93.244.184 notebooklm.google.com
-195.93.244.184 notion.com
-195.93.244.184 notion.so
-195.93.244.184 o.pki.goog
-195.93.244.184 oaistatic.com
-195.93.244.184 oaiusercontent.com
-195.93.244.184 opal.withgoogle.com
-195.93.244.184 openai.com
-195.93.244.184 openaiapi-site.azureedge.net
-195.93.244.184 openaipublic.blob.core.windows.net
-195.93.244.184 openrouter.ai
-195.93.244.184 oracle.com
-195.93.244.184 padi.com
-195.93.244.184 pandasecurity.com
-195.93.244.184 patreon.com
-195.93.244.184 patreonusercontent.com
-195.93.244.184 pcmag.com
-195.93.244.184 people-pa.clients6.google.com
-195.93.244.184 ppkas.com
-195.93.244.184 pr0gramm.com
-195.93.244.184 preview.reve.art
-195.93.244.184 proactivebackend-pa.googleapis.com
-195.93.244.184 promods.net
-195.93.244.184 qualtrics.com
-195.93.244.184 qwant.com
-195.93.244.184 remove.bg
-195.93.244.184 res.cloudinary.com
-195.93.244.184 rewards.bing.com
-195.93.244.184 robinfrontend-pa.googleapis.com
-195.93.244.184 scribd.com
-195.93.244.184 scribdassets.com
-195.93.244.184 securitytrails.com
-195.93.244.184 signaler-pa.clients6.google.com
-195.93.244.184 sketchup.com
-195.93.244.184 slack.com
-195.93.244.184 sora.com
-195.93.244.184 spotify.com
-195.93.244.184 squadbustersgame.com
-195.93.244.184 squareup.com
-195.93.244.184 stitch.withgoogle.com
-195.93.244.184 strava.com
-195.93.244.184 suggestqueries.google.com
-195.93.244.184 supercell.com
-195.93.244.184 sydney.bing.com
-195.93.244.184 tableau.com
-195.93.244.184 theaudiodb.com
-195.93.244.184 themoviedb.org
-195.93.244.184 ti.com
-195.93.244.184 tmdb-image-prod.b-cdn.net
-195.93.244.184 tmdb.com
-195.93.244.184 tmdb.org
-195.93.244.184 trae-api-sg.mchost.guru
-195.93.244.184 tria.ge
-195.93.244.184 trueachievements.com
-195.93.244.184 truthsocial.com
-195.93.244.184 ultimaker.com
-195.93.244.184 unscreen.com
-195.93.244.184 usher.ttvnw.net
-195.93.244.184 waa-pa.clients6.google.com
-195.93.244.184 wbagora.com
-195.93.244.184 wbgames.com
-195.93.244.184 weather.com
-195.93.244.184 web.archive.org
+195.93.244.184 aitestkitchen.withgoogle.com
+195.93.244.184 aisandbox-pa.googleapis.com
 195.93.244.184 webchannel-alkalimakersuite-pa.clients6.google.com
-195.93.244.184 weborama.nl
-195.93.244.184 windguru.cz
-195.93.244.184 windsurf.com
-195.93.244.184 wise.com
-195.93.244.184 www.qwant.com
-195.93.244.184 x.ai
-195.93.244.184 xboxdesignlab.xbox.com
-195.93.244.184 xerox.com
-195.93.244.184 xgpuweb.gssv-play-prod.xboxlive.com
-195.93.244.184 xgpuwebf2p.gssv-play-prod.xboxlive.com
+195.93.244.184 alkalimakersuite-pa.clients6.google.com
+195.93.244.184 assistant-s3-pa.googleapis.com
+195.93.244.184 proactivebackend-pa.googleapis.com
+195.93.244.184 robinfrontend-pa.googleapis.com
+195.93.244.184 o.pki.goog
+195.93.244.184 labs.google
+195.93.244.184 notebooklm.google.com
+195.93.244.184 jules.google.com
+195.93.244.184 stitch.withgoogle.com
+
+# OpenAI
+195.93.244.184 chatgpt.com
+195.93.244.184 ab.chatgpt.com
+195.93.244.184 auth.openai.com
+195.93.244.184 auth0.openai.com
+195.93.244.184 platform.openai.com
+195.93.244.184 cdn.oaistatic.com
+195.93.244.184 files.oaiusercontent.com
+195.93.244.184 cdn.auth0.com
+195.93.244.184 tcr9i.chat.openai.com
+195.93.244.184 webrtc.chatgpt.com
+195.93.244.184 android.chat.openai.com
+195.93.244.184 api.openai.com
+195.93.244.184 operator.chatgpt.com
+195.93.244.184 sora.chatgpt.com
+195.93.244.184 sora.com
+195.93.244.184 videos.openai.com
+195.93.244.184 ios.chat.openai.com
+
+# Microsoft
+195.93.244.184 copilot.microsoft.com
+195.93.244.184 sydney.bing.com
+195.93.244.184 edgeservices.bing.com
+195.93.244.184 rewards.bing.com
 195.93.244.184 xsts.auth.xboxlive.com
-195.93.244.184 yupp.ai
-195.93.244.184 zapier-deployment.com
-195.93.244.184 zapier.com
+195.93.244.184 xgpuwebf2p.gssv-play-prod.xboxlive.com
+195.93.244.184 xgpuweb.gssv-play-prod.xboxlive.com
+
+# Spotify
+195.93.244.184 api.spotify.com
+195.93.244.184 login5.spotify.com
+195.93.244.184 encore.scdn.co
+195.93.244.184 gew1-spclient.spotify.com
+195.93.244.184 spclient.wg.spotify.com
+195.93.244.184 api-partner.spotify.com
+195.93.244.184 aet.spotify.com
+195.93.244.184 www.spotify.com
+195.93.244.184 accounts.spotify.com
+195.93.244.184 open.spotify.com
+195.93.244.184 accounts.scdn.co
+195.93.244.184 gew1-dealer.spotify.com
+195.93.244.184 open-exp.spotifycdn.com
+195.93.244.184 www-growth.scdn.co
+
+# GitHub Copilot
+195.93.244.184 api.github.com
+195.93.244.184 api.individual.githubcopilot.com
+195.93.244.184 proxy.individual.githubcopilot.com
+
+# JetBrains
+195.93.244.184 datalore.jetbrains.com
+195.93.244.184 plugins.jetbrains.com
+195.93.244.184 download.jetbrains.com
+195.93.244.184 api.jetbrains.ai
+195.93.244.184 account.jetbrains.com
+
+# ElevenLabs
+195.93.244.184 elevenlabs.io
+195.93.244.184 api.us.elevenlabs.io
+195.93.244.184 elevenreader.io
+195.93.244.184 api.elevenlabs.io
+195.93.244.184 help.elevenlabs.io
+
+# Grok
+195.93.244.184 grok.com
+195.93.244.184 accounts.x.ai
+195.93.244.184 assets.grok.com
+
+# Tidal
+195.93.244.184 api.tidal.com
+195.93.244.184 listen.tidal.com
+195.93.244.184 login.tidal.com
+195.93.244.184 auth.tidal.com
+195.93.244.184 link.tidal.com
+195.93.244.184 dd.tidal.com
+195.93.244.184 resources.tidal.com
+195.93.244.184 images.tidal.com
+195.93.244.184 fsu.fa.tidal.com
+195.93.244.184 geolocation.onetrust.com
+195.93.244.184 api.squareup.com
+195.93.244.184 api-global.squareup.com
+
+# Supercell
+195.93.244.184 cdn.id.supercell.com
+195.93.244.184 security.id.supercell.com
+195.93.244.184 accounts.supercell.com
+195.93.244.184 game-assets.clashroyaleapp.com
+195.93.244.184 game-assets.clashofclans.com
+195.93.244.184 clashofclans.inbox.supercell.com
+195.93.244.184 game-assets.brawlstarsgame.com
+195.93.244.184 store.supercell.com
+
+# DeepL
+195.93.244.184 deepl.com
+195.93.244.184 www.deepl.com
+195.93.244.184 www2.deepl.com
+195.93.244.184 login-wall.deepl.com
+195.93.244.184 w.deepl.com
+195.93.244.184 s.deepl.com
+195.93.244.184 dict.deepl.com
+195.93.244.184 ita-free.www.deepl.com
+195.93.244.184 write-free.www.deepl.com
+195.93.244.184 experimentation.deepl.com
+195.93.244.184 experimentation-grpc.deepl.com
+195.93.244.184 ita-free.app.deepl.com
+195.93.244.184 shield.deepl.com
+195.93.244.184 ott.deepl.com
+195.93.244.184 api-free.deepl.com
+195.93.244.184 backend.deepl.com
+195.93.244.184 clearance.deepl.com
+195.93.244.184 errortracking.deepl.com
+195.93.244.184 auth.deepl.com
+195.93.244.184 oneshot-free.www.deepl.com
+195.93.244.184 checkout.www.deepl.com
+195.93.244.184 gtm.deepl.com
+
+# Deezer
+195.93.244.184 deezer.com
+195.93.244.184 www.deezer.com
+195.93.244.184 payment.deezer.com
+
+# Weather.com
+195.93.244.184 weather.com
+195.93.244.184 upsx.weather.com
+
+# Fitbit
+195.93.244.184 api.fitbit.com
+195.93.244.184 fitbit-pa.googleapis.com
+195.93.244.184 fitbitvestibuleshim-pa.googleapis.com
+195.93.244.184 fitbit.google.com
+
+# Claude
+195.93.244.184 claude.ai
+195.93.244.184 console.anthropic.com
+195.93.244.184 api.anthropic.com
+
+# Trae.ai
+195.93.244.184 trae-api-sg.mchost.guru
+195.93.244.184 api.trae.ai
+195.93.244.184 api-sg-central.trae.ai
+195.93.244.184 api16-normal-alisg.mchost.guru
+
+# Linear.app
+195.93.244.184 linear.app
+195.93.244.184 client-api.linear.app
+195.93.244.184 static.linear.app
+195.93.244.184 constellation.linear.app
+195.93.244.184 uploads.linear.app
+195.93.244.184 public.linear.app
+195.93.244.184 s.linear.app
+
+# Windsurf
+195.93.244.184 windsurf.com
+195.93.244.184 codeium.com
+195.93.244.184 server.codeium.com
+195.93.244.184 web-backend.codeium.com
+195.93.244.184 unleash.codeium.com
+195.93.244.184 inference.codeium.com
+195.93.244.184 windsurf-stable.codeium.com
+195.93.244.184 windsurf-telemetry.codeium.com
+195.93.244.184 marketplace.windsurf.com
+
+# Twitch
+195.93.244.184 usher.ttvnw.net
+195.93.244.184 gql.twitch.tv
+
+# Manus
+195.93.244.184 manus.im
+195.93.244.184 api.manus.im
+
+# Notion
+195.93.244.184 www.notion.so
+195.93.244.184 calendar.notion.so
+
+# Canva
+195.93.244.184 www.canva.com
+195.93.244.184 content-management-files.canva.com
+195.93.244.184 static.canva.com
+
+# Intel
+195.93.244.184 www.intel.com
+
+# Dell
+195.93.244.184 www.dell.com
+
+# TikTok
+195.93.244.184 www.tiktok.com
+
+# Archive.org
+195.93.244.184 web.archive.org
+
+# NVIDIA
+195.93.244.184 developer.nvidia.com
+
+# Parsec
+195.93.244.184 builds.parsec.app
+
+# Tria.ge
+195.93.244.184 tria.ge
+
+# Qwant
+195.93.244.184 www.qwant.com
+
+# guidedhacking.com
+195.93.244.184 guidedhacking.com
+
+# Framer
+195.93.244.184 framer.com
+
+# Autodesk
+195.93.244.184 accounts.autodesk.com
+195.93.244.184 www.autodesk.com
+
+# Pump.fun
+195.93.244.184 pump.fun
+195.93.244.184 frontend-api-v3.pump.fun
+195.93.244.184 images.pump.fun
+195.93.244.184 swap-api.pump.fun
+
+# Truth Social
+195.93.244.184 truthsocial.com
+195.93.244.184 static-assets-1.truthsocial.com
+
+# Elgato
+195.93.244.184 www.elgato.com
+
+# Imgur
+195.93.244.184 api.imgur.com
+
+# Dyson
+195.93.244.184 dyson.com
+
+# Broadcom
+195.93.244.184 profile.broadcom.com
+
+# Patreon
+195.93.244.184 patreon.com
+195.93.244.184 www.patreon.com
+
+# Блокировка
+
+
+### dns.malw.link: end hosts file
+
